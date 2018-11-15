@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/GridView_CalcRowHeight/Form1.cs) (VB: [Form1.vb](./VB/GridView_CalcRowHeight/Form1.vb))
+* [Program.cs](./CS/GridView_CalcRowHeight/Program.cs) (VB: [Program.vb](./VB/GridView_CalcRowHeight/Program.vb))
+<!-- default file list end -->
 # How to allow a user to edit the big MemoEdit cell in the XtraGrid?
 
 
